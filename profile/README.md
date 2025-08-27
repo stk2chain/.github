@@ -10,7 +10,7 @@
 
 This doc specifies the STK2ETH protocol, including the USSD-ETH Gateway (short: *4337#), a USSD gateway enabling offline User Transaction relays for AA wallets.
 - <details><summary>System Schematics</summary>
-    <img src="./doc/System_Schematics-2025-06-30-2208.excalidraw.png" />
+    <img src="./assets/System_Schematics-2025-06-30-2208.excalidraw.png" />
 
 ## Protocol
 
